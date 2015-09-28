@@ -14,5 +14,7 @@ CREATE TABLE link (
 );
 CREATE TABLE user (
 );
+CREATE TABLE tag (
+);
 
 COMMIT;
