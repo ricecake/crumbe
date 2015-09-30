@@ -16,5 +16,7 @@ CREATE TABLE user (
 );
 CREATE TABLE tag (
 );
+CREATE TABLE settings (
+);
 
 COMMIT;
