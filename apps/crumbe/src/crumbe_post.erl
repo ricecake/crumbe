@@ -1,0 +1,2 @@
+-module(crumbe_post).
+-export([render/1, preview/1]).
